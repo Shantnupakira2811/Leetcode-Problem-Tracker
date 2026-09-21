@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0283-move-zeroes) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting
 |  |
 | ------- |
