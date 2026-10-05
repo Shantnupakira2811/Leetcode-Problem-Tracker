@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
