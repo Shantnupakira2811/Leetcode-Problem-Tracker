@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0680-valid-palindrome-ii) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
@@ -132,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
