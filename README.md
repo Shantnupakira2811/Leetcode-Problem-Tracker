@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0628-maximum-product-of-three-numbers) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/2733-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/2351-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
@@ -172,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
