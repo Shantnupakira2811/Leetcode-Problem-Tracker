@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0075-sort-colors) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
