@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
@@ -188,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/1004-max-consecutive-ones-iii) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
