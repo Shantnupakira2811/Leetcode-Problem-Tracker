@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0136-single-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
