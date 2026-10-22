@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0283-move-zeroes) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0078-subsets) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
