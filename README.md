@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0151-reverse-words-in-a-string) |
@@ -216,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
