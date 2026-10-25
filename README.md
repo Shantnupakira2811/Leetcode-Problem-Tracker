@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
