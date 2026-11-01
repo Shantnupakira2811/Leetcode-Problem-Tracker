@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0049-group-anagrams) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/1004-max-consecutive-ones-iii) |
