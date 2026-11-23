@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0144-binary-tree-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -259,4 +260,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shantnupakira2811/Leetcode-Problem-Tracker/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
